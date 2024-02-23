@@ -10,7 +10,7 @@ However, the quality of movement is still poor.
 
 Robot is able to correct the zero position, if the center of mass is displaced.
 
-### Components used:
+### Components used: 
 * STM32F103 microcontroller
 * MPU6050 accelerometer & gyroscope
 * TSOP1838 IR reciever
